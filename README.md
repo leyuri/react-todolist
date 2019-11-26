@@ -1,3 +1,7 @@
+# TodoList
+
+<img width="506" alt="Screen Shot 2019-11-27 at 12 51 01 AM" src="https://user-images.githubusercontent.com/33794732/69649269-22a8d580-10b0-11ea-92c4-c34b4abf5356.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# TodoList
+
