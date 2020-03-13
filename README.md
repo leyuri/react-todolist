@@ -3,7 +3,7 @@
 ### development environment
 - React.js
 
-### Implementation function
+### Features
 - Add list
 - Remove list
 
